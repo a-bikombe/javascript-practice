@@ -1,6 +1,6 @@
 # JavaScript Practice
 
-**November 2021**
+***November 2021***
 
 Simple practice using JavaScript.
 
