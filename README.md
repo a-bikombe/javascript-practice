@@ -4,7 +4,7 @@
 
 Simple practice using JavaScript.
 
-## Used In This Project
+## Used In This Repository
 
 - HTML5
 - JavaScript 1.5
