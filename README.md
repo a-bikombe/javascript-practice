@@ -8,7 +8,7 @@ Simple practice using JavaScript, started November 2021.
 
 ## Getting Started
 
-### Languages, Libraries, Etc. Used
+### Used In This Project
 
 - HTML5
 - JavaScript 1.5
