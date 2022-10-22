@@ -1,6 +1,8 @@
 # JavaScript Practice
 
-Simple practice using JavaScript, started November 2021.
+**November 2021**
+
+Simple practice using JavaScript.
 
 ## Used In This Project
 
