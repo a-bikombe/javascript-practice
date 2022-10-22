@@ -9,24 +9,15 @@ Simple practice using JavaScript.
 - HTML5
 - JavaScript 1.5
 
-## Dependencies
+## Getting Started
+
+### Dependencies
 
 No dependencies.
 
-## Setup
+### Setup
 
 * Deployment: [GitHub Pages](https://a-bikombe.github.io/javascript-practice/)
-
-```
-[TBD]
-```
-
-## Help
-
-[TBD]
-```
-[TBD]
-```
 
 ## Version History
 
