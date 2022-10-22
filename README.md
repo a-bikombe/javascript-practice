@@ -2,22 +2,16 @@
 
 Simple practice using JavaScript, started November 2021.
 
-## Description
-
-[TBD]
-
-## Getting Started
-
-### Used In This Project
+## Used In This Project
 
 - HTML5
 - JavaScript 1.5
 
-### Dependencies
+## Dependencies
 
 No dependencies.
 
-### Setup
+## Setup
 
 * Deployment: [GitHub Pages](https://a-bikombe.github.io/javascript-practice/)
 
