@@ -11,13 +11,7 @@ Simple practice using JavaScript.
 
 ## Getting Started
 
-### Dependencies
-
-No dependencies.
-
-### Setup
-
-* Deployment: [GitHub Pages](https://a-bikombe.github.io/javascript-practice/)
+Deployment: [GitHub Pages](https://a-bikombe.github.io/javascript-practice/)
 
 ## Version History
 
